@@ -1,0 +1,57 @@
+
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    background-image: url(/website/images/bg.jpg);
+}
+
+#app {
+    width: 60%;
+    margin: auto;
+
+}
+.holder-headline {
+    background-color: coral;
+    text-align: center;
+}
+.holder-zip {
+    margin: 20px 0; 
+}
+
+#zip {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.holder-feel {
+    display: flex;
+}
+.myInput {
+    margin-left: 20px;
+}
+#generate {
+    margin: 15px;
+    width: 100%;
+    padding: 7px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+}
+
+#entryHolder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 15px;
+}
