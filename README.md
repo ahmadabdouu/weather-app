@@ -1,13 +1,29 @@
-# [Weather-Journal App Project](https://ahmadabdouu.github.io/weather-app/.)
+# Weather app
 
-## Overview
+> web app built to inform the user with their temperature.
 
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
+[Explore the website](https://ahmadabdouu.github.io/weather-app/ "Weather-app")
 
-## Instructions
+### Description
 
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+the web app is desinged to get the user zipcode and give back the exact temperature and date.
 
-## Extras
+### How to install
 
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+```bash
+npm install
+npm start
+```
+
+### Technologies used
+
+- html5
+- css3
+- javascript
+- markdown
+
+### Author info
+
+[github](https://github.com/ahmadabdouu)
+
+[linkedin](https://www.linkedin.com/in/ahmed-abdou-1b118019b/)
